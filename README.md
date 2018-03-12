@@ -10,4 +10,4 @@ The project have two part:
 -Junit: src/test/java, with one package:
 	com.expedia.test : contains sample of test case(s).
 	
--Note that the external files contain important information about my app, and .zip file contains whole project.
+-Note that the external files contain important information about my app, and src file contains source code.
